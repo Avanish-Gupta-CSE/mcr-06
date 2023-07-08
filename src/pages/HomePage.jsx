@@ -7,7 +7,7 @@ const HomePage = () => {
   return (
     <Flex as="main" flexDir="column" gap={8}>
       <Heading as="h1" size="lg" mt={4} textAlign="center">
-        Food Ordereing App
+        Food Ordering App
       </Heading>
       <CuisineSelect />
       <RestaurantList />
