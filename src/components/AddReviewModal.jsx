@@ -21,7 +21,7 @@ import { useAppContext } from "../context/AppContextProvider";
 const initialState = {
   rating: 0,
   comment: "",
-  revName: "Harsh Mohite",
+  revName: "Avanish Kumar Gupta",
   pp: "https://res.cloudinary.com/dbiyvbal5/image/upload/v1687718901/chirper/Photo-2-modified_afznog.png",
 };
 
