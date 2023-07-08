@@ -22,7 +22,7 @@ const initialState = {
   rating: 0,
   comment: "",
   revName: "Avanish Kumar Gupta",
-  pp: "https://res.cloudinary.com/dbiyvbal5/image/upload/v1687718901/chirper/Photo-2-modified_afznog.png",
+  pp: "https://avatars.githubusercontent.com/u/91612116?s=48&v=4",
 };
 
 const AddReviewModal = ({ isOpen, onClose, restaurantId }) => {
